@@ -1,4 +1,4 @@
-# 1. Conditional Statements + Loops
+# Implement and demonstrate the use of conditional statements (if, if-else, elif) and looping constructs (for, while) in Python.
     # 1.1 if, if…else, elif
 x = 15
 

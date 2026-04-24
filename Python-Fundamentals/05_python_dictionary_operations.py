@@ -1,5 +1,4 @@
-#5. Dictionaries
-
+# Implement dictionary operations including creation, updating, deletion, looping, and nested dictionaries.
 # I. Dictionary Creation + Access + Update
 d = {"name": "John", "age": 25}
 print(d["name"])

@@ -1,4 +1,4 @@
-#3. Arrays in Python (using array module)
+# Implement array operations using Python’s array module including traversal, insertion, and deletion.
     #from array import array
 
 #I. Array Creation

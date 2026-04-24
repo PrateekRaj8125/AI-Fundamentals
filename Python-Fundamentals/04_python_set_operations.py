@@ -1,4 +1,4 @@
-#4. Sets
+# Perform set operations including union, intersection, difference, and symmetric difference.
 
 #I. Set Creation & Length
 s = {1, 2, 3}

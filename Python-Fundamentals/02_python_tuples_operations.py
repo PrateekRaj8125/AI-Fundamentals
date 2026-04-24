@@ -1,4 +1,4 @@
-# 2. Tuple Tasks
+# Perform various operations on tuples including creation, indexing, slicing, duplication, and conversion.
 
 # I. Tuple Creation & Deletion
 t = (10, 20, 30)
