@@ -18,10 +18,10 @@ This folder contains implementations of **advanced AI techniques**, including co
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Solve a cryptarithmetic problem using AI techniques. | [cryptarithmetic-solver.ipynb]() |
-| 2. | Implement a genetic algorithm for optimization. | [genetic-algorithm-optimization.ipynb]() |
-| 3. | Implement hill climbing for optimization problems. | [hill-climbing-optimization.ipynb]() |
-| 4. | Compare and test different AI algorithms. | [ai-algorithms-comparison.ipynb]() |
+| 1. | Solve a cryptarithmetic problem using AI techniques. | [cryptarithmetic-solver.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Evolutionary-Algorithms-and-CSP/cryptarithmetic-solver.ipynb) |
+| 2. | Implement a genetic algorithm for optimization. | [genetic-algorithm-optimization.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Evolutionary-Algorithms-and-CSP/genetic-algorithm-optimization.ipynb) |
+| 3. | Implement hill climbing for optimization problems. | [hill-climbing-optimization.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Evolutionary-Algorithms-and-CSP/hill-climbing-optimization.ipynb) |
+| 4. | Compare and test different AI algorithms. | [ai-algorithms-comparison.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Evolutionary-Algorithms-and-CSP/ai-algorithms-comparison.ipynb) |
 
 ---
 

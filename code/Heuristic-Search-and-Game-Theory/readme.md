@@ -19,8 +19,8 @@ This folder contains implementations of **heuristic search algorithms and game-p
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Implement Hill Climbing algorithm for optimization problems. | [hill-climbing-algorithm.ipynb]() |
-| 2. | Implement Minimax algorithm for game playing. | [minimax-algorithm.ipynb]() |
+| 1. | Implement Hill Climbing algorithm for optimization problems. | [hill-climbing-algorithm.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Heuristic-Search-and-Game-Theory/hill-climbing-algorithm.ipynb) |
+| 2. | Implement Minimax algorithm for game playing. | [minimax-algorithm.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Heuristic-Search-and-Game-Theory/minimax-algorithm.ipynb) |
 
 ---
 

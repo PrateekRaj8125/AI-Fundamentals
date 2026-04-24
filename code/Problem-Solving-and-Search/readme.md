@@ -18,9 +18,9 @@ This folder contains implementations of classic **Artificial Intelligence proble
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Solve the N-Queens problem using backtracking. | [n-queens-problem.ipynb]() |
-| 2. | Implement a path planning algorithm to find optimal paths. | [path-planning-algorithm.ipynb]() |
-| 3. | Solve a puzzle problem (e.g., 8-puzzle) using search techniques. | [puzzle-solver-search.ipynb]() |
+| 1. | Solve the N-Queens problem using backtracking. | [n-queens-problem.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Problem-Solving-and-Search/n-queens-problem.ipynb) |
+| 2. | Implement a path planning algorithm to find optimal paths. | [path-planning-algorithm.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Problem-Solving-and-Search/path-planning-algorithm.ipynb) |
+| 3. | Solve a puzzle problem (e.g., 8-puzzle) using search techniques. | [puzzle-solver-search.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Problem-Solving-and-Search/puzzle-solver-search.ipynb) |
 
 ---
 

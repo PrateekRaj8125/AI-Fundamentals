@@ -36,11 +36,11 @@ Each folder represents a **progressive level of learning**, making it ideal for:
 
 | Level | Folder Name | Concepts Covered | Description |
 | --- | --- | --- | --- |
-| 1. | [Python Fundamentals]() | Control flow, tuples, sets, dictionaries | Core Python concepts required for AI |
-| 2. | [Search Algorithms (BFS, UCS)]() | Graph traversal, uninformed search | Basic AI search strategies |
-| 3. | [Problem Solving & Search]() | N-Queens, puzzles, path planning | Classical AI problems and state space |
-| 4. | [Heuristic Search & Game Theory]() | Hill Climbing, Minimax | Decision-making and optimization |
-| 5. | [Evolutionary Algorithms & CSP]() | Genetic Algorithm, Cryptarithmetic | Advanced AI techniques |
+| 1. | [Python Fundamentals](https://github.com/PrateekRaj8125/AI-Fundamentals/tree/main/code/Python-Fundamentals) | Control flow, tuples, sets, dictionaries | Core Python concepts required for AI |
+| 2. | [Search Algorithms](https://github.com/PrateekRaj8125/AI-Fundamentals/tree/main/code/Search-Algorithms) | Graph traversal, uninformed search | Basic AI search strategies |
+| 3. | [Problem Solving & Search](https://github.com/PrateekRaj8125/AI-Fundamentals/tree/main/code/Problem-Solving-and-Search) | N-Queens, puzzles, path planning | Classical AI problems and state space |
+| 4. | [Heuristic Search & Game Theory](https://github.com/PrateekRaj8125/AI-Fundamentals/tree/main/code/Heuristic-Search-and-Game-Theory) | Hill Climbing, Minimax | Decision-making and optimization |
+| 5. | [Evolutionary Algorithms & CSP](https://github.com/PrateekRaj8125/AI-Fundamentals/tree/main/code/Evolutionary-Algorithms-and-CSP) | Genetic Algorithm, Cryptarithmetic | Advanced AI techniques |
 
 ---
 
@@ -119,7 +119,7 @@ By working through this repository, you will:
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License]().
+This project is open-source and available under the [MIT License](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/LICENSE.md).
 
 ---
 

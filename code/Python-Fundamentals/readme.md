@@ -21,11 +21,11 @@ These programs help beginners understand **basic syntax**, **operations**, and *
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Implement and demonstrate control flow statements and loops in Python. | [01_python_control_flow_statements.py]() |
-| 2. | Perform various operations on tuples including indexing, slicing, and conversion. | [02_python_tuples_operations.py]() |
-| 3. | Implement array operations using Python’s array module. | [03_python_array_module_operations.py]() |
-| 4. | Perform set operations such as union, intersection, and difference. | [04_python_set_operations.py]() |
-| 5. | Implement dictionary operations including nested dictionaries and looping. | [05_python_dictionary_operations.py]() |
+| 1. | Implement and demonstrate control flow statements and loops in Python. | [01_python_control_flow_statements.py](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Python-Fundamentals/01_python_control_flow_statements.py) |
+| 2. | Perform various operations on tuples including indexing, slicing, and conversion. | [02_python_tuples_operations.py](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Python-Fundamentals/02_python_tuples_operations.py) |
+| 3. | Implement array operations using Python’s array module. | [03_python_array_module_operations.py](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Python-Fundamentals/03_python_array_module_operations.py) |
+| 4. | Perform set operations such as union, intersection, and difference. | [04_python_set_operations.py](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Python-Fundamentals/04_python_set_operations.py) |
+| 5. | Implement dictionary operations including nested dictionaries and looping. | [05_python_dictionary_operations.py](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Python-Fundamentals/05_python_dictionary_operations.py) |
 
 ---
 

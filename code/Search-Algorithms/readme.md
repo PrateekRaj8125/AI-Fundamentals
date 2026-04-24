@@ -18,8 +18,8 @@ This folder contains implementations of **fundamental AI search algorithms**, fo
 
 | S. No. | Questions | File Name |
 | --- | --- | --- |
-| 1. | Implement Breadth-First Search (BFS) for graph traversal. | [breadth-first-search.ipynb]() |
-| 2. | Implement BFS and Uniform Cost Search (UCS) and compare them. | [bfs-and-uniform-cost-search.ipynb]() |
+| 1. | Implement Breadth-First Search (BFS) for graph traversal. | [breadth-first-search.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Search-Algorithms/breadth-first-search.ipynb) |
+| 2. | Implement BFS and Uniform Cost Search (UCS) and compare them. | [bfs-and-uniform-cost-search.ipynb](https://github.com/PrateekRaj8125/AI-Fundamentals/blob/main/code/Search-Algorithms/bfs-and-uniform-cost-search.ipynb) |
 
 ---
 
